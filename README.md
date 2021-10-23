@@ -1,2 +1,2 @@
-# appsquadz_task
+# appsquadz_test
 Created with CodeSandbox
